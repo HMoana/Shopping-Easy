@@ -5,7 +5,7 @@
 
 ### **Overview**
 
-Created an E-Commerce Shopping app where a user can shop around and add items to a shopping cart.
+Created an E-Commerce app where a user can shop around and add items to a shopping cart.
 
 ---
 
