@@ -1,0 +1,27 @@
+.navbar {
+    width: 100%;
+    height: 80px;
+    background-color: rgb(19, 19, 19);
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+  }
+  
+  .links {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .links a {
+    text-decoration: none;
+    color: #218380;
+    font-weight: bolder;
+    margin-left: 20px;
+    font-size: 25px;
+  }
+
+.logo {
+  height: 150px;
+  float: left;
+}

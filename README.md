@@ -1,70 +1,111 @@
-# Getting Started with Create React App
+# Shopping Easy
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## ReactJS E-Commerce Shopping Cart
+---
 
-## Available Scripts
+### **Overview**
 
-In the project directory, you can run:
+Created an E-Commerce Shopping Cart where a user can shop around and add items to a shopping cart.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### **About our projects**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### **Purpose**
 
-### `npm test`
+The purpose of this project is to use the ReactJS tool context API to develope state management on the front-end.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **Built with:**
 
-### `npm run build`
+- [React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo-react&logoColor=026e00 "React")
+- [React-url](https://react.dev/ "Reacturl")
+- [Javascript](https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo-javascript&logoColor=026e00 "Javascript")
+- [Javascript-url](https://www.javascript.com/ "Javascripturl")
+- [CSS](https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo-css&logoColor=026e00 "CSS")
+- [CSS-url](https://www.w3schools.com/css/ "CSSurl")
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### **Getting started:**
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### _Prerequisites -_
 
-### `npm run eject`
+#### _The software needed to install -_
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- _Dependencies:_
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  ```sh
+  npx create-react-app .
+  ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- React Router Dom
 
-## Learn More
+  ```sh
+  npm i react-router-dom
+  ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- React Phosphor Icons
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  ```sh
+  npm i phosphor-react
+  ```
 
-### Code Splitting
+   ```sh
+  npm i @phosphor-icons/react@2.0.10
+  ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+### **Installation:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Clone the repo 
 
-### Making a Progressive Web App
+   ```sh
+   git clone https://github.com/HMoana/Shopping-Easy.git
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+2. Install NPM packages
 
-### Advanced Configuration
+   ```sh
+   npm install
+   ```  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+3. Install Babel package 
 
-### Deployment
+     ```sh
+   npm i @phosphor-icons/react@2.0.10
+   ```  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+---
 
-### `npm run build` fails to minify
+### **Features:**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Use of React tool context API
+- Developed state management
+
+---
+
+### **Future improvements:**
+
+- Improve code smells
+- Build upon the application by developing a backend
+
+---
+
+### **Contact:**
+
+- Heni Kimura - <henik@missionreadyhq.com>
+
+### **Project Link:**
+
+- [Github repository](https://github.com/HMoana/Shopping-Easy.git "Github repository")
+
+### **License:**
+
+Distributed under the MIT License. See LICENSE.txt for more information.
+
+### **Acknowledgments:**
+
+- [PedroTech](https://youtu.be/tEMrD9t85v4 "PedroTech")
