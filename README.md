@@ -1,11 +1,11 @@
 # Shopping Easy
 
-## ReactJS E-Commerce Shopping Cart
+## React E-Commerce Shopping Cart
 ---
 
 ### **Overview**
 
-Created an E-Commerce Shopping Cart where a user can shop around and add items to a shopping cart.
+Created an E-Commerce Shopping app where a user can shop around and add items to a shopping cart.
 
 ---
 
@@ -13,7 +13,7 @@ Created an E-Commerce Shopping Cart where a user can shop around and add items t
 
 ### **Purpose**
 
-The purpose of this project is to use the ReactJS tool context API to develope state management on the front-end.
+The purpose of this project is to use the React tool Context API to develope state management on the front-end.
 
 ### **Built with:**
 
@@ -84,7 +84,7 @@ The purpose of this project is to use the ReactJS tool context API to develope s
 
 ### **Features:**
 
-- Use of React tool context API
+- Use of the React tool Context API
 - Developed state management
 
 ---
@@ -92,7 +92,7 @@ The purpose of this project is to use the ReactJS tool context API to develope s
 ### **Future improvements:**
 
 - Improve code smells
-- Build upon the application by developing a backend
+- Build upon the application by building a backend
 
 ---
 
