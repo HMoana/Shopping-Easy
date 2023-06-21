@@ -93,6 +93,7 @@ The purpose of this project is to use the React tool Context API to develope sta
 
 - Improve code smells
 - Build upon the application by building a backend
+- Incorporate functioning checkout
 
 ---
 
