@@ -40,7 +40,7 @@ export const PRODUCTS = [
   },
   {
     id: 6,
-    productName: "Happy Boots",
+    productName: "Air Jordan 1 'Racer Blue'",
     price: 68.0,
     productImage: product6,
   },
